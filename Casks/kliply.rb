@@ -12,7 +12,7 @@ cask "kliply" do
     regex(/Kliply[._-]v?(\d+(?:\.\d+)+)\.zip/i)
   end
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Kliply.app"
 
