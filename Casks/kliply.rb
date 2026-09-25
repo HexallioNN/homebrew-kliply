@@ -1,6 +1,6 @@
 cask "kliply" do
-  version "1.0"
-  sha256 "a3bae29ffc51242c804253e254efcee5c4d07551ee38c986d497e45faa2eff7d"
+  version "1.0.1"
+  sha256 "c84a5db9b04a1289a1c6b9976f54cdfcaa0a8018bb1d78fcac28b623681941a5"
 
   url "https://kliplyapp.com/download/Kliply-#{version}.zip"
   name "Kliply"
